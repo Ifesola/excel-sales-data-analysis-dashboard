@@ -39,7 +39,9 @@ The dataset contains sales transactions including:
 - Regional performance
 
 ## 🖼 Dashboard Preview
-![Dashboard](images/dashboard.png)
+<img width="1599" height="1063" alt="dashboard" src="https://github.com/user-attachments/assets/f696983a-a79f-4bc2-88fc-ce408018aa34" />
+
+
 
 ## 📂 Project Structure
 - `/data/raw` → Original dataset  
